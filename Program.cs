@@ -26,24 +26,8 @@
                     Console.WriteLine("La suma de tus dos numeros es igual a "+suma);
                     break;
                 case 2:
-
-
-                   
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+                    resta = num1 - num2;
+                    Console.WriteLine($"La resta de {0} - {1} = {2}", num1, num2, resta);
                     break;
                 case 3:
 
