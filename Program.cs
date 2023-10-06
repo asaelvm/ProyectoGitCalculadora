@@ -36,25 +36,6 @@
                 case 4:
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
                     break;
                 default:
                     Console.WriteLine("Saliendo...");
