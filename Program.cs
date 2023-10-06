@@ -27,7 +27,7 @@
                     break;
                 case 2:
                     resta = num1 - num2;
-                    Console.WriteLine($"La resta de {0} - {1} = {2}", num1, num2, resta);
+                    Console.WriteLine("$La resta de {0} - {1} = {2}", num1, num2, resta);
                     break;
                 case 3:
                     multiplicacion = num1 * num2;
@@ -35,7 +35,7 @@
                     break;
                 case 4:
                     division = num1 / num2;
-                    Console.WriteLine($"El resultado de la división entre {0} y {1} es {2}", num1, num2, division);
+                    Console.WriteLine("$El resultado de la división entre {0} y {1} es {2}", num1, num2, division);
                     break;
                 default:
                     Console.WriteLine("Saliendo...");
