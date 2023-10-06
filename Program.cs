@@ -92,8 +92,8 @@
 
                     break;
                 case 4:
-
-
+                    division = num1 / num2;
+                    Console.WriteLine($"El resultado de la división entre {0} y {1} es {2}", num1, num2, division);
 
 
 
