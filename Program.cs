@@ -41,6 +41,7 @@
                     Console.WriteLine("Saliendo...");
                     break;
             }
+            //Equipo conformado por: Leon Oribio Manuel Alejandro 1A, Lutz Barrientos Daniela Fernanda, Rodriguez Pérez Rafael 1A, Villa Medina Ulises Asael 1A
         }
     }
 }
