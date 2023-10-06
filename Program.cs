@@ -15,7 +15,11 @@
             Console.WriteLine("4.- División");
             Console.WriteLine("5.- Cancelar/Salir");
             op = Convert.ToByte(Console.ReadLine());
-            switch(op)
+            Console.WriteLine("Introduce el primer valor entero");
+            num1 = Convert.ToInt32(Console.ReadLine());
+            Console.WriteLine("Introduce el segundo valor entero");
+            num2 = Convert.ToInt32(Console.ReadLine());
+            switch (op)
             {
                 case 1:
 
