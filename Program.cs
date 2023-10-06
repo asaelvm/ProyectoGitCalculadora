@@ -22,7 +22,8 @@
             switch (op)
             {
                 case 1:
-
+                    suma = num1 + num2;
+                    Console.WriteLine("La suma de tus dos numeros es igual a "+suma);
 
 
 
