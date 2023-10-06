@@ -48,8 +48,7 @@
 
 
                     
-                    resta = num1 - num2;
-                    Console.WriteLine(resta);
+
 
 
 
