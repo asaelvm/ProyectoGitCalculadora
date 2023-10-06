@@ -30,8 +30,8 @@
                     Console.WriteLine($"La resta de {0} - {1} = {2}", num1, num2, resta);
                     break;
                 case 3:
-
-
+                    multiplicacion = num1 * num2;
+                    Console.WriteLine("El resultado de la multiplicacion de " + num1 + " por " + num2 + " es: " + multiplicacion);
                     break;
                 case 4:
 
