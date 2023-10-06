@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.6.33723.286
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ProyectoGitCalculadora", "ProyectoGitCalculadora.csproj", "{D9295B33-824D-4306-8E20-7F5D1074411E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D9295B33-824D-4306-8E20-7F5D1074411E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D9295B33-824D-4306-8E20-7F5D1074411E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D9295B33-824D-4306-8E20-7F5D1074411E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D9295B33-824D-4306-8E20-7F5D1074411E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {20674B9C-2B09-4D3C-9BAA-D4A610A90CC2}
+	EndGlobalSection
+EndGlobal
